@@ -8,7 +8,7 @@ To download Tesseract you can click on the 'Get Tesseract' hyperlink on the PEEP
 Word lists are located in the root of the program in a directory labeled "WORD LISTS". The user may edit these text files as they wish.
 
 
-Each list is a text file that can be changed to meet the needs of the investigator. Each row is treated as a seperate search term. Please take steps to remove empty rows from the lists to avoid false positive responses.
+Each list is a text file that can be changed to meet the needs of the investigator. Each row is treated as a seperate search term. Please take steps to remove empty rows or un-needed spaces from the lists to avoid false positive responses.
 
 One-time searches can also be performed through input on the tool's UI.
 
