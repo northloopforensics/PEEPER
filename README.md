@@ -1,4 +1,6 @@
 # PEEPER
+![alt text](https://user-images.githubusercontent.com/73806121/132998784-8a2cafce-bb54-4a9d-adb0-fc5889c76454.png)
+
 This tool is intended to assist investigators dealing with large volumes of screenshots or document images. The tool reads text from images found in the source directory and searches the text for terms or information deemed relevant by the user.  It then creates a report related to images found to contain text, the raw OCR data, word list hits, and a link to the image file.
 
 PEEPER makes use of the open-source Tesseract engine for optical character recognition (OCR) and requires the user install Tesseract prior to using PEEPER.
