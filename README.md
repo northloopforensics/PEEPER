@@ -14,7 +14,7 @@ One-time searches can also be performed through input on the tool's UI.
 
 The comparison between word lists and recovered text is not case sensitive.
 
-This public release does not have the "Personal Identifiers" module enabled. If you are a law enforcement official, you may request access to a restricted version which identifies credit card numbers, passport numbers, social security numbers, US phone numbers, e-mail addresses, etc.  Requests may be submitted here: http://www.northloopconsulting.com/contact-us.html.  Requests must include an official agency e-mail address for the requestor.
+This public release does not have the "Child Exploitation", "Narcotics", or "Personal Identifiers" modules enabled. If you are a law enforcement official, you may request access to a restricted version which activates the CSAM and Narcotic related word lists, and identifies credit card numbers, passport numbers, social security numbers, US phone numbers, e-mail addresses, and other PII data.  Requests may be submitted here: http://www.northloopconsulting.com/contact-us.html.  Requests must include an official agency e-mail address for the requestor.
 
 The OCR process used in the tool is not perfect and can be impacted by picture quality, image rotation, or other factors. Please review all output for accuracy.
 
