@@ -1,5 +1,6 @@
 # PEEPER
 ![alt text](https://user-images.githubusercontent.com/73806121/133710988-b373eecf-5515-4941-981c-486854bed0c9.png)
+
 To download see '[Releases](https://github.com/northloopforensics/PEEPER/releases/)' for this project.
 
 This tool is intended to assist investigators dealing with large volumes of screenshots or document images. The tool reads text from images found in the source directory and searches the text for terms or information deemed relevant by the user.  It then creates a report containing images found to contain text, the raw OCR data, word list hits, and a reference to the image filepath.
