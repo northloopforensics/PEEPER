@@ -7,7 +7,7 @@ PEEPER makes use of the open-source Tesseract engine for optical character recog
 
 To download Tesseract you can click on the 'Get Tesseract' hyperlink on the PEEPER control panel. After installation, Tesseract [MUST BE ADDED TO PATH](https://medium.com/quantrium-tech/installing-and-using-tesseract-4-on-windows-10-4f7930313f82).
 
-The tool makes use of word lists to compare OCR'd data with terms relevant to the investigation.  Each list is customizable to meet the needs of the investigator. Each row of the file is treated as a seperate search term. Please take steps to remove empty rows or un-needed spaces from the lists to avoid false positive responses. Word lists will be found in the root of the program in a directory labeled "WORD LISTS". 
+The tool implements word lists to compare OCR'd data with terms relevant to the investigation.  Each list is customizable to meet the needs of the investigator. Each row of the file is treated as a seperate search term. Please take steps to remove empty rows or un-needed spaces from the lists to avoid false positive responses. Word lists will be found in the root of the program in a directory labeled "WORD LISTS". 
 
 One-time searches may also be performed through the input window on the tool's UI.
 
