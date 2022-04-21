@@ -1,5 +1,4 @@
 # PEEPER
-![alt text](https://user-images.githubusercontent.com/73806121/133710988-b373eecf-5515-4941-981c-486854bed0c9.png)
 
 To download- see '[Releases](https://github.com/northloopforensics/PEEPER/releases/)' for this project.
 
